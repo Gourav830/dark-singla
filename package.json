@@ -4,6 +4,17 @@
   "description": "dark theme based extension",
   "version": "0.0.1",
   "publisher": "GouravSingla",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gourav830/dark-singla"
+  },
+  "keywords": [
+    "dark",
+    "dark-theme",
+    "dark-singla",
+    "dark light theme",
+    "Gourav theme"
+  ],
   "engines": {
     "vscode": "^1.88.0"
   },
