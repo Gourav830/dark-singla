@@ -3,6 +3,7 @@
   "displayName": "dark-singla",
   "description": "dark theme based extension",
   "version": "0.0.1",
+  "publisher": "GouravSingla",
   "engines": {
     "vscode": "^1.88.0"
   },
