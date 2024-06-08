@@ -1,8 +1,8 @@
 {
   "name": "dark-singla",
-  "displayName": "dark-singla",
+  "displayName": "ShadowScript",
   "description": "dark theme based extension",
-  "version": "1.0.1",
+  "version": "1.0.",
   "publisher": "GouravSingla",
   "repository": {
     "type": "git",
@@ -11,12 +11,15 @@
   "keywords": [
     "dark",
     "dark-theme",
+    "ShadowScript",
+    "Shadow-Script",
     "dark-singla",
     "dark light theme",
-    "Gourav theme"
+    "Gourav theme","wonderful-theme","unique theme"
+
   ],
   "engines": {
-    "vscode": "^2.88.0"
+    "vscode": "^0.88.0"
   },
   "categories": [
     "Themes"
