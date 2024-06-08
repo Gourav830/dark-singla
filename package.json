@@ -2,7 +2,7 @@
   "name": "dark-singla",
   "displayName": "dark-singla",
   "description": "dark theme based extension",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "publisher": "GouravSingla",
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
     "Gourav theme"
   ],
   "engines": {
-    "vscode": "^1.88.0"
+    "vscode": "^2.88.0"
   },
   "categories": [
     "Themes"
