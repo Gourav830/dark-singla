@@ -17,6 +17,11 @@ Shadow Script is a dark theme for Visual Studio Code, designed to provide a soot
 4. **Click the "Install" button next to the Shadow Script theme.**
 5. **Once installed, go to the Command Palette (`Ctrl+Shift+P`), type "Color Theme", and select "Shadow Script" from the list.**
 
+
+gti hub link -
+```json
+github - https://github.com/Gourav830
+```
 ## Customizations
 
 You can further customize the theme by editing your VS Code settings. For example, to change the background color of the editor, add the following to your `settings.json` file:
@@ -26,4 +31,4 @@ You can further customize the theme by editing your VS Code settings. For exampl
     "editor.background": "#1E1E1E"
 }
 
-github - https://github.com/Gourav830
+```
