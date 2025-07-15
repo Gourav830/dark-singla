@@ -1,34 +1,89 @@
-# Shadow Script - VS Code Theme
+# ShadowScript Theme
 
-Shadow Script is a dark theme for Visual Studio Code, designed to provide a soothing and consistent coding environment. The theme features muted colors with subtle contrasts to reduce eye strain during long coding sessions.
+[![Version](https://img.shields.io/visual-studio-marketplace/v/GouravSingla.dark-singla)](https://marketplace.visualstudio.com/items?itemName=GouravSingla.dark-singla)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/GouravSingla.dark-singla)](https://marketplace.visualstudio.com/items?itemName=GouravSingla.dark-singla)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/GouravSingla.dark-singla)](https://marketplace.visualstudio.com/items?itemName=GouravSingla.dark-singla)
 
-## Features
+A carefully crafted dark theme for Visual Studio Code that provides a comfortable coding experience with reduced eye strain. ShadowScript features a harmonious color palette with subtle contrasts, perfect for long coding sessions.
 
-- Dark background with high-contrast text for readability
-- Muted color palette to reduce eye strain
-- Consistent and harmonious color scheme across all UI elements
-- Custom styling for various UI components like the activity bar, editor, and badges
+## ✨ Features
 
-## Installation
+- 🌙 **Dark background** with high-contrast text for optimal readability
+- 🎨 **Muted color palette** designed to reduce eye strain
+- 🔄 **Consistent theming** across all VS Code UI elements
+- 💚 **Green accent colors** with sophisticated highlights
+- 🎯 **Carefully selected syntax highlighting** for better code comprehension
+- ⚡ **Optimized for productivity** during extended coding sessions
 
-1. **Open Visual Studio Code.**
-2. **Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window or by pressing `Ctrl+Shift+X`.**
-3. **Search for "Shadow Script" in the search bar.**
-4. **Click the "Install" button next to the Shadow Script theme.**
-5. **Once installed, go to the Command Palette (`Ctrl+Shift+P`), type "Color Theme", and select "Shadow Script" from the list.**
+## 🚀 Installation
 
+### Via VS Code Marketplace
 
-gti hub link -
-```json
-github - https://github.com/Gourav830
+1. Open **Visual Studio Code**
+2. Press `Ctrl+Shift+X` (Windows/Linux) or `Cmd+Shift+X` (macOS) to open Extensions view
+3. Search for **"ShadowScript"** or **"dark-singla"**
+4. Click **Install**
+5. Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (macOS) to open Command Palette
+6. Type **"Color Theme"** and select **"ShadowScript"**
+
+### Via Command Line
+
+```bash
+code --install-extension GouravSingla.dark-singla
 ```
-## Customizations
 
-You can further customize the theme by editing your VS Code settings. For example, to change the background color of the editor, add the following to your `settings.json` file:
+## 🎨 Color Palette
+
+| Element    | Color     | Usage                        |
+| ---------- | --------- | ---------------------------- |
+| Background | `#191919` | Main editor background       |
+| Foreground | `#B5BD9B` | Primary text color           |
+| Accent     | `#8DFFCE` | Highlights and badges        |
+| Secondary  | `#EDF6FF` | Secondary text elements      |
+| Muted      | `#DFFFB0` | Breadcrumbs and secondary UI |
+
+## 📸 Screenshots
+
+> Add screenshots of your theme in action here to showcase its appearance
+
+## ⚙️ Customization
+
+You can further customize the theme by adding color overrides to your VS Code `settings.json`:
 
 ```json
-"workbench.colorCustomizations": {
-    "editor.background": "#1E1E1E"
+{
+  "workbench.colorCustomizations": {
+    "[ShadowScript]": {
+      "editor.background": "#1a1a1a",
+      "activityBar.background": "#1f1f1f"
+    }
+  }
 }
-
 ```
+
+## 🐛 Issues & Feedback
+
+Found a bug or have a suggestion? Please open an issue on our [GitHub repository](https://github.com/Gourav830/dark-singla).
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📝 License
+
+This theme is released under the [MIT License](LICENSE).
+
+## 👨‍💻 Author
+
+Created by Gourav Singla
+
+- GitHub: [@Gourav830](https://github.com/Gourav830)
+- Repository: [dark-singla](https://github.com/Gourav830/dark-singla)
+
+## 🔖 Keywords
+
+`dark-theme` `vscode-theme` `syntax-highlighting` `developer-tools` `code-editor`
+
+---
+
+Enjoy coding with ShadowScript! 🌟
